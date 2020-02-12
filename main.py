@@ -1,3 +1,7 @@
+"""
+ License GPLv3 written by Pusalieth
+"""
+
 from tkinter import filedialog
 from tkinter import *
 import dictionary
